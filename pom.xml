@@ -216,6 +216,12 @@
             <classifier>raml</classifier>
             <type>zip</type>
         </dependency>
+		<dependency>
+			<groupId>com.mulesoft.connectors</groupId>
+			<artifactId>mule-servicenow-connector</artifactId>
+			<version>6.11.1</version>
+			<classifier>mule-plugin</classifier>
+		</dependency>
 	</dependencies>
 	<repositories>
 		<repository>
